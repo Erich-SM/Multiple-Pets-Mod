@@ -1,0 +1,3 @@
+displayName = Multiple Pets Mod
+author = F&K
+version = 0.1
